@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Estou aprendendo sobre Git e GitHub!
 
 <!--
 **Rafael-Alexandre347/Rafael-Alexandre347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
