@@ -1,5 +1,6 @@
-## Olá! Estou aprendendo sobre Git e GitHub!
+## Olá! Estou em busca de um emprego como desenvolvedor, sinta-se a vontade para entrar em contato!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Alexandre347&layout=compact)
 <!--
 **Rafael-Alexandre347/Rafael-Alexandre347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
