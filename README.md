@@ -1,25 +1,25 @@
 <h1 align="center">Rafael Alexandre de Oliveira</h1>
-<h3 align="center">Desenvolvedor em formação, com foco em Python e determinação para transformar ideias em soluções reais.</h3>
+<h3 align="center">Analista de dados em formação, com foco em Python e determinação para transformar ideias em soluções reais.</h3>
 
 ---
 
 ### 🇧🇷 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Indaiatuba (FATEC).  
-🐍 Atualmente cursando o BootCamp de Python da DIO.  
-📌 Experiência com **Java**, **JavaScript** e **Python**.  
+🐍 Atualmente cursando o BootCamp de Ciência de dados com Python da DIO.  
+📌 Experiência com **SQL**, **Python** e **Excel avançado**.  
 🛠 Certificado em **Engenharia de Prompting** pela Santander Open Academy.  
-🚀 Em busca de oportunidades como **estagiário** ou **desenvolvedor júnior**.  
+🚀 Em busca de oportunidades como **analista de dados júnior**.  
 
 ---
 
 ### 🇺🇸 About me
 
 🎓 Student of Systems Analysis and Development at FATEC (Indaiatuba).  
-🐍 Currently enrolled in DIO’s Python BootCamp.  
-📌 Experience with **Java**, **JavaScript**, and **Python**.  
+🐍 Currently enrolled in DIO’s Data Sciencie with Python BootCamp.  
+📌 Experience with **SQL**, **Python**, and **Advanced Excel**.  
 🛠 Certified in **Prompt Engineering** by Santander Open Academy.  
-🚀 Actively seeking opportunities as a **junior developer** or **intern**.  
+🚀 Actively seeking opportunities as a **junior data analyst**.  
 
 ---
 
@@ -42,8 +42,7 @@ Acesse todos os meus repositórios públicos:
 
 ## 🚀 Tecnologias e Ferramentas | Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL]([https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1])
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -64,7 +63,7 @@ Acesse todos os meus repositórios públicos:
 
 - Sempre em busca de novos aprendizados e desafios técnicos  
 - Interessado em contribuir com projetos open source no futuro  
-- Acredito que programação é uma ferramenta poderosa para gerar impacto real
+- Acredito que análise de dados é uma ferramenta poderosa para revolucionar o mercado
 
 ---
 
